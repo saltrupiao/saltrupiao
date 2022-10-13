@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-this is a test
+this is a test of github pages - not working so far
 
 <!--
 **saltrupiao/saltrupiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
